@@ -1,5 +1,5 @@
 # Vision Team Image Classification
-#### Team : HyeonJun Choi / SiYeon Lee / JaeYoung Han
+#### Team : Hyeonjun Choi / Siyeon Lee / Jaeyeong Han
 
 This repository contains code for an image classification project utilizing TensorFlow and Keras with pre-trained models. The project involves image preprocessing, augmentation, and training a custom classification model based on a pre-trained network.
 
